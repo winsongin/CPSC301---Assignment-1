@@ -1,4 +1,4 @@
-# CPSC301---Assignment-1
+# CPSC301-Assignment-1
 
 Winson Gin
 
